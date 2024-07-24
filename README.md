@@ -57,3 +57,4 @@ stage('Terraform Apply'): Applies the changes required to reach the desired stat
 After creaƟng all files push them into git repository
 git init
 git remote add origin hƩps://github.com/username/repository.git
+git add . # Add all fils
