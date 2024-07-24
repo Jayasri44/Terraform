@@ -17,3 +17,4 @@ java -version : To check the java version
 after installing Jenkins and java in the server we need to restart the Jenkins server 
 systemctl restart Jenkins : to restart the Jenkins 
 systemctl status Jenkins : to check the Jenkins status , whether its running or not
+LOGIN INTO JENKINS DASHBOARD 
