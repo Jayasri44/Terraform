@@ -54,3 +54,4 @@ stage('Terraform Format'): Checks if the Terraform files are formaƩed correctly
 stage('Terraform Validate'): Validates the Terraform configuraƟon using terraform validate
 stage('Terraform Plan'): Creates an execuƟon plan using terraform plan and saves it to a file named ƞplan
 stage('Terraform Apply'): Applies the changes required to reach the desired state of the configuraƟon using the previously created plan (ƞplan)
+After creaƟng all files push them into git repository
