@@ -28,3 +28,4 @@ Create an admin user by filling in the required informaƟon
 Click save and finish
 Now Jenkins setup has been completed
 in Jenkins dashboard select manage Jenkins and click on plugins and install terraform plugins
+Now, again select manage Jenkins and click on tools and install terraform and save
