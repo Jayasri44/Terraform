@@ -45,3 +45,4 @@ Create a Jenkins script for terraform to run a pipeline
 ![image 6](https://github.com/user-attachments/assets/abf56c6b-46fe-4557-b080-fcf691e98ea3)
 Explanation
 pipeline: Defines a Jenkins pipeline
+agent any: Runs the pipeline on any available agent
