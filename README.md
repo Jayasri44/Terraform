@@ -42,3 +42,4 @@ In output.ƞ
 Create a backend.ƞ file to store state file in s3 bucket
 ![image 5](https://github.com/user-attachments/assets/77145e5e-d3f6-445c-963f-a180e2114700)
 Create a Jenkins script for terraform to run a pipeline
+![image 6](https://github.com/user-attachments/assets/abf56c6b-46fe-4557-b080-fcf691e98ea3)
