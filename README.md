@@ -40,3 +40,4 @@ In variable.ƞ
 In output.ƞ
 ![Image  4](https://github.com/user-attachments/assets/7bd82136-5dca-434c-9d58-9536c99734b6)
 Create a backend.ƞ file to store state file in s3 bucket
+![image 5](https://github.com/user-attachments/assets/77145e5e-d3f6-445c-963f-a180e2114700)
