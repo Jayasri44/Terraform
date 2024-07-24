@@ -33,3 +33,4 @@ Select credenƟals and add aws credenƟals and git credenƟals
 Create a vpc ,public and private subnet , internet gateway ,rout table and create a ec2 
 instance in public subnet by using terraform
 In main.ƞ
+https://github.com/Jayasri44/Terraform/issues/1#issue-2428081408
