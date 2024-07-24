@@ -59,3 +59,4 @@ git init
 git remote add origin hƩps://github.com/username/repository.git
 git add . # Add all fils
 git commit -m "Commit message"
+git push -u origin master 
