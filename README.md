@@ -24,3 +24,4 @@ To unlock Jenkins we need administrator password
 Go to your terminal and paste the command below to get the password to unlock Jenkins 
 cat /var/lib/jenkins/secrets/iniƟalAdminPassword
 Select install suggested plugins 
+Create an admin user by filling in the required informaƟon
