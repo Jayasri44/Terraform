@@ -22,3 +22,4 @@ To access Jenkins. We need to allow inbound traffic on PORT 8080 in the AWS secu
 Copy the public ip of the server and paste in the browser with port number 8080{Example : 54.89.243.242:8080} 
 To unlock Jenkins we need administrator password
 Go to your terminal and paste the command below to get the password to unlock Jenkins 
+cat /var/lib/jenkins/secrets/iniƟalAdminPassword
