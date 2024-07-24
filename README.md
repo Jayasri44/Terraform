@@ -51,3 +51,4 @@ AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY: Fetches AWS credenƟals stored in J
 stage('Checkout'): Checks out the Terraform code from the specified Git repository
 stage('Terraform Init'): IniƟalizes the Terraform configuration
 stage('Terraform Format'): Checks if the Terraform files are formaƩed correctly using terraform fmt -check
+stage('Terraform Validate'): Validates the Terraform configuraƟon using terraform validate
