@@ -14,4 +14,4 @@ Jenkins requires java to run
 install java
 apt install openjdk-17-jdk -y : This command used to install java 
 java -version : To check the java version 
-aŌer installing Jenkins and java in the server we need to restart the Jenkins server 
+after installing Jenkins and java in the server we need to restart the Jenkins server 
