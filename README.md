@@ -46,3 +46,4 @@ Create a Jenkins script for terraform to run a pipeline
 Explanation
 pipeline: Defines a Jenkins pipeline
 agent any: Runs the pipeline on any available agent
+environment: Sets environment variables
