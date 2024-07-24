@@ -30,3 +30,5 @@ Now Jenkins setup has been completed
 in Jenkins dashboard select manage Jenkins and click on plugins and install terraform plugins
 Now, again select manage Jenkins and click on tools and install terraform and save
 Select credenƟals and add aws credenƟals and git credenƟals
+Create a vpc ,public and private subnet , internet gateway ,rout table and create a ec2 
+instance in public subnet by using terraform
