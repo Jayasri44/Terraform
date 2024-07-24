@@ -25,3 +25,4 @@ Go to your terminal and paste the command below to get the password to unlock Je
 cat /var/lib/jenkins/secrets/iniƟalAdminPassword
 Select install suggested plugins 
 Create an admin user by filling in the required informaƟon
+Click save and finish
