@@ -49,3 +49,4 @@ agent any: Runs the pipeline on any available agent
 environment: Sets environment variables
 AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY: Fetches AWS credenƟals stored in Jenkins
 stage('Checkout'): Checks out the Terraform code from the specified Git repository
+stage('Terraform Init'): IniƟalizes the Terraform configuration
