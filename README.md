@@ -18,3 +18,4 @@ after installing Jenkins and java in the server we need to restart the Jenkins s
 systemctl restart Jenkins : to restart the Jenkins 
 systemctl status Jenkins : to check the Jenkins status , whether its running or not
 LOGIN INTO JENKINS DASHBOARD 
+To access Jenkins. We need to allow inbound traffic on PORT 8080 in the AWS security group
