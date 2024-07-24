@@ -56,3 +56,4 @@ stage('Terraform Plan'): Creates an execuƟon plan using terraform plan and save
 stage('Terraform Apply'): Applies the changes required to reach the desired state of the configuraƟon using the previously created plan (ƞplan)
 After creaƟng all files push them into git repository
 git init
+git remote add origin hƩps://github.com/username/repository.git
