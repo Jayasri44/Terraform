@@ -52,3 +52,4 @@ stage('Checkout'): Checks out the Terraform code from the specified Git reposito
 stage('Terraform Init'): IniƟalizes the Terraform configuration
 stage('Terraform Format'): Checks if the Terraform files are formaƩed correctly using terraform fmt -check
 stage('Terraform Validate'): Validates the Terraform configuraƟon using terraform validate
+stage('Terraform Plan'): Creates an execuƟon plan using terraform plan and saves it to a file named ƞplan
