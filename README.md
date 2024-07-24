@@ -39,3 +39,4 @@ In variable.ƞ
 ![Image 3](https://github.com/user-attachments/assets/d58f8ffe-826c-4d8d-b811-474ce7ae4fa2)
 In output.ƞ
 ![Image  4](https://github.com/user-attachments/assets/7bd82136-5dca-434c-9d58-9536c99734b6)
+Create a backend.ƞ file to store state file in s3 bucket
