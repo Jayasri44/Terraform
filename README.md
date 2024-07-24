@@ -38,3 +38,4 @@ https://github.com/Jayasri44/Terraform/issues/2#issue-2428092273
 In variable.ƞ
 ![Image 3](https://github.com/user-attachments/assets/d58f8ffe-826c-4d8d-b811-474ce7ae4fa2)
 In output.ƞ
+![Image  4](https://github.com/user-attachments/assets/7bd82136-5dca-434c-9d58-9536c99734b6)
