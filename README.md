@@ -36,3 +36,4 @@ In main.ƞ
 https://github.com/Jayasri44/Terraform/issues/1#issue-2428081408
 https://github.com/Jayasri44/Terraform/issues/2#issue-2428092273
 In variable.ƞ
+![Image 3](https://github.com/user-attachments/assets/d58f8ffe-826c-4d8d-b811-474ce7ae4fa2)
