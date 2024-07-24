@@ -35,3 +35,4 @@ instance in public subnet by using terraform
 In main.ƞ
 https://github.com/Jayasri44/Terraform/issues/1#issue-2428081408
 https://github.com/Jayasri44/Terraform/issues/2#issue-2428092273
+In variable.ƞ
