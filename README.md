@@ -73,3 +73,4 @@ Branch Specifier: main ( branch name where the files are stored )
 Script Path: jenkinsfile (path name where the script is written)
 After filling all this then click on apply and save it
 Now select build now and it will run cicd pipeline
+This setup will provision a VPC with public and private subnets, an internet gateway, route tables, and an EC2 instance in the public subnet using Terraform. The Jenkins pipeline will automate the Terraform workﬂow from initialization to applying changes
