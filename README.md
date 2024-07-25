@@ -34,7 +34,7 @@ Create a vpc ,public and private subnet , internet gateway ,rout table and creat
 instance in public subnet by using terraform
 In main.ƞ
 ![image 1](https://github.com/user-attachments/assets/5681a488-fb36-4905-b10c-dfec20d4543f)
-https://github.com/Jayasri44/Terraform/issues/2#issue-2428092273
+![image 2](https://github.com/user-attachments/assets/0c9724f2-49a5-4136-a388-5d960ab7c6b3)
 In variable.ƞ
 ![Image 3](https://github.com/user-attachments/assets/d58f8ffe-826c-4d8d-b811-474ce7ae4fa2)
 In output.ƞ
