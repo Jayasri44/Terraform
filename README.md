@@ -64,3 +64,4 @@ use this commands to add your local files into git repository
  open the Jenkins dashboard and select the new item
 Enter an item name: terraform_cicd
 Select an item type: pipeline
+After selecting pipline click on ok .It opens Configuration in that select pipeline
