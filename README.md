@@ -65,3 +65,4 @@ use this commands to add your local files into git repository
 Enter an item name: terraform_cicd
 Select an item type: pipeline
 After selecting pipline click on ok .It opens Configuration in that select pipeline
+Select pipeline script from SCM in the definition
