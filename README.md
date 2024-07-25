@@ -68,3 +68,4 @@ After selecting pipline click on ok .It opens Configuration in that select pipel
 Select pipeline script from SCM in the definition
 SCM: Git
 Repository URL: https://github.com/ajayguvva/terraform_cicd.git
+Credentials : give your Credential
