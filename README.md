@@ -69,3 +69,4 @@ Select pipeline script from SCM in the definition
 SCM: Git
 Repository URL: https://github.com/ajayguvva/terraform_cicd.git
 Credentials : give your Credential
+Branch Specifier: main ( branch name where the files are stored )
