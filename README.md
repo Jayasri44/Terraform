@@ -67,3 +67,4 @@ Select an item type: pipeline
 After selecting pipline click on ok .It opens Configuration in that select pipeline
 Select pipeline script from SCM in the definition
 SCM: Git
+Repository URL: https://github.com/ajayguvva/terraform_cicd.git
